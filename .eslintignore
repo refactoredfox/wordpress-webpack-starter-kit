@@ -1,0 +1,8 @@
+# /node_modules/* and /bower_components/* ignored by default
+
+# Ignore vendor js
+/js/dist/**/*.js
+/js/src/vendor/**/*.js
+
+# Ignore the stylelintrc.js files
+stylelintrc.js

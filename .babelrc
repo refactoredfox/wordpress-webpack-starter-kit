@@ -1,0 +1,21 @@
+{
+  "presets": [
+	"env"
+  ],
+  "env": {
+	"development": {
+	  "presets": [
+		"env"
+	  ]
+	},
+	"production": {
+	  "presets": [
+		"env"
+	  ],
+	  "plugins": [
+		"transform-object-assign",
+		"transform-async-to-generator"
+	  ]
+	}
+  }
+}
