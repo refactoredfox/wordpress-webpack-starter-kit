@@ -1,9 +1,15 @@
 # Webpack Starter Kit
+Tags: webpack, npm, docker, Refactored Fox
+Requires at least: 4.0
+Tested up to: 4.8.2
+Stable tag: 0.1.0
+License: GPL2
+
 ## Using WordPress and Docker
 
 This is intended to provide a basic started kit for using Webpack and Docker to build a WordPress site. Docker, Node, and a package manager must be install for all files to function correctly.
 
-## Important Announcements
+## Important
 
 <b>Remember to edit the package.json and ./tools/constants.js files to meet your project needs.</b> This is a user guide and starter kit, it is not ready to go 'out-of-the-box'.
 
